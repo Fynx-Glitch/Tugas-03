@@ -1,0 +1,35 @@
+* body {
+    font-family: Verdana; 
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  thead, tr, td {
+    width: 50px;
+    border-bottom: 1px solid #ffffff;
+  }
+  
+  tbody, tr, td {
+    width: 100px;
+  }
+  
+  .ganjil{
+    background-color: maroon;
+  }
+  
+  .genap {
+    background-color: khaki;
+    color: #ffffff;
+  }
+  
+  tr :hover{
+    color: #bdbdbd;
+    background-color: orange;
+    cursor: pointer;
+  }
+
+  thead{
+    background-color: khaki;
+  }
